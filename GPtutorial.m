@@ -3,7 +3,7 @@
 % Mark Ebden, Aug 2008.  Comments to mebden@gmail.com
 %
 % Dependencies: calcGP.m k_GP.m, GPtutorialFcn.m, hypSample.m
-%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%% 1. Initialization %%%%%%%%%%%%%%%%%%%%%%%%%
 clc;close all;clear;
